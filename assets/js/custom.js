@@ -39,43 +39,39 @@
 		$('.mu-skill-progress-bar').appear(function() {
 
 		 	$('.mu-html5-bar').LineProgressbar({
-				percentage: 90,
+				percentage: 80,
 				triggerOnce: true
 			});
 
 			$('.mu-css-bar').LineProgressbar({
-				percentage: 89,
+				percentage: 70,
 				triggerOnce: true
 			});
 
 			$('.mu-php-bar').LineProgressbar({
-				percentage: 95,
+				percentage: 87,
 				triggerOnce: true
 			});
 
 			$('.mu-jquery-bar').LineProgressbar({
-				percentage: 95,
+				percentage: 85,
 				triggerOnce: true
 			});
 
-			$('.mu-c#-bar').LineProgressbar({
-				percentage: 60,
-				triggerOnce: true
-			});
 			$('.mu-asp-bar').LineProgressbar({
 				percentage: 60,
 				triggerOnce: true
 			});
 			$('.mu-bootstrap-bar').LineProgressbar({
-				percentage: 90,
+				percentage: 77,
 				triggerOnce: true
 			});
 			$('.mu-mysql-bar').LineProgressbar({
-				percentage: 90,
+				percentage: 75,
 				triggerOnce: true
 			});
 			$('.mu-javascript-bar').LineProgressbar({
-				percentage: 95,
+				percentage: 70,
 				triggerOnce: true
 			});
 
